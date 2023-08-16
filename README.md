@@ -1,5 +1,7 @@
 ## Olá! Eu sou Fernanda Pestana! 👋
-### 💻 Desenvolvedora BackEnd Junior
+### 💻 <i style="color: purple">Desenvolvedora BackEnd Junior</i>
+<div>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -15,7 +17,7 @@
 </div>
 
 ##
-<p>🎓 Análise e Desenvolvimento de Software - UNICSUL<br>
+<p>🎓 Análise e Desenvolvimento de Sistemas - UNICSUL<br>
 ✍️ Desenvolvimento de Software BackEnd - Cubos Academy [em andamento...]</p>
 <br>
 <p>👢 BootCamp DIO Potência Tech - Ciência de Dados em Python<br>
