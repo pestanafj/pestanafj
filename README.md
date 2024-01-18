@@ -17,11 +17,11 @@
 
 ##
 <p>🎓 Análise e Desenvolvimento de Sistemas - UNICSUL<br>
-✍️ Desenvolvimento de Software BackEnd - Cubos Academy [em andamento...]</p>
+✍️ Desenvolvimento de Software BackEnd - Cubos Academy</p>
 <br>
 <p>👢 BootCamp DIO Potência Tech - Ciência de Dados em Python<br>
-👢 BootCamp DIO Coding The Future - Desenvolvimento Java com Cloud AWS [em andamento...]<br>
-👢 BootCamp DIO Santander - Full Stack Java + Angular [em andamento...]</p>
+👢 BootCamp DIO Coding The Future - Desenvolvimento Java com Cloud AWS<br>
+👢 BootCamp DIO Santander - Full Stack Java + Angular</p>
 <br>
 <p>📚 Já li 3600+ livros, sou apaixonada por fantasia e ficção científica<br>
 🧶 Sou artesã nas horas vagas: faço crochet, tricot, macramê, bordado, etc.</p>
