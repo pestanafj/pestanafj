@@ -1,5 +1,5 @@
 ## Olá! Eu sou Fernanda Pestana! 👋
-### 💻 <i style="color: purple">Desenvolvedora BackEnd Junior</i>
+### 💻 <i style="color: purple">Desenvolvedora BackEnd</i>
 <div>
 </div>
 <div style="display: inline_block"><br>
