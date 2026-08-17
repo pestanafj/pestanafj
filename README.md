@@ -8,8 +8,8 @@
 </div>
 
 ##
-<p>🎓 Análise e Desenvolvimento de Sistemas - UNICSUL<br>
-  🎓 Pós-Graduação em Engenharia de Software - DESCOMPLICA<br>
+<p>🎓 Pós-Graduação em Engenharia de Software - DESCOMPLICA<br>
+  🎓 Análise e Desenvolvimento de Sistemas - UNICSUL<br>
 ✍️ Desenvolvimento de Software BackEnd - Cubos Academy</p>
 
 <br>
